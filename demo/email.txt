@@ -1,0 +1,202 @@
+3:I[4707,[],""]
+4:I[6423,[],""]
+2:T3013,
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Your Exam Results</title>
+      <!--[if mso]>
+      <noscript>
+          <xml>
+              <o:OfficeDocumentSettings>
+                  <o:PixelsPerInch>96</o:PixelsPerInch>
+              </o:OfficeDocumentSettings>
+          </xml>
+      </noscript>
+      <![endif]-->
+  </head>
+  <body style="margin:0;padding:0;font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:#f5f5f5;min-height:100vh;">
+      <div style="padding:40px 20px;">
+          
+          <!-- Main email container -->
+          <table cellpadding="0" cellspacing="0" border="0" style="max-width:600px;margin:0 auto;background:#ffffff;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.1);overflow:hidden;">
+              
+              <!-- Header -->
+              <tr>
+                  <td style="background:linear-gradient(135deg,#1e90ff 0%,#0066cc 100%);padding:30px 40px;text-align:center;">
+                      <div style="color:#ffffff;font-size:26px;font-weight:300;letter-spacing:3px;">
+                          MAXWELL
+                      </div>
+                      <div style="color:#ffffff;font-size:12px;letter-spacing:2px;margin-top:8px;font-weight:400;">
+                          CPA REVIEW
+                      </div>
+                  </td>
+              </tr>
+              
+              <!-- Content -->
+              <tr>
+                  <td style="padding:40px;">
+                      
+                      <h2 style="color:#1A3D7C;font-size:24px;margin-bottom:20px;font-weight:600;text-align:center;">
+                          Your FAR Baseline Exam Results
+                      </h2>
+                      
+                      <p style="font-size:16px;color:#333333;line-height:1.6;margin-bottom:20px;text-align:left;">
+                          Hi <strong>Jane</strong>,
+                      </p>
+                      
+                      <p style="font-size:16px;color:#333333;line-height:1.6;margin-bottom:30px;text-align:left;">
+                          Thank you for completing the FAR Baseline Exam. Here are your results:
+                      </p>
+                      
+                      <!-- Score Display -->
+                      <div style="background:linear-gradient(135deg,#f8f9ff 0%,#e8f2ff 100%);border-radius:12px;padding:25px;margin-bottom:35px;text-align:center;border:2px solid #e3f2fd;">
+                          <h3 style="color:#1A3D7C;font-size:18px;margin-bottom:10px;font-weight:600;">
+                              Your Overall Score
+                          </h3>
+                          <div style="font-size:48px;font-weight:bold;color:#1e90ff;margin:10px 0;">
+                              73%
+                          </div>
+                      </div>
+                      
+                      <!-- Weakest Topics -->
+                      <h3 style="color:#1A3D7C;font-size:20px;margin-bottom:15px;font-weight:600;text-align:left;">
+                          Your 5 Weakest Topics to Focus On:
+                      </h3>
+                      
+                      <p style="font-size:14px;color:#666666;line-height:1.5;margin-bottom:25px;text-align:left;background:#f8f9fa;padding:15px;border-radius:8px;border-left:3px solid #1e90ff;">
+                          Each topic comes with a comprehensive <strong>video lecture</strong> and an interactive <strong>practice app</strong> to help improve your results.
+                      </p>
+                      
+                      
+      <div style="margin-bottom:20px;background:#ffffff;border:1px solid #e9ecef;border-radius:8px;padding:20px;border-left:4px solid #1e90ff;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+              <div style="flex:1 1 250px;min-width:200px;">
+                  <h4 style="margin:0 0 8px 0;font-size:16px;font-weight:600;color:#1A3D7C;">
+                      Bond Accounting
+                  </h4>
+                  <p style="margin:0;font-size:14px;color:#666666;">
+                      Your Score: <strong>1 out of 3</strong>
+                  </p>
+              </div>
+              <div style="flex-shrink:0;display:flex;align-items:center;gap:8px;">
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:linear-gradient(135deg,#1e90ff 0%,#0066cc 100%);color:#ffffff;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 2px 6px rgba(30,144,255,0.25);mso-padding-alt:0;">
+                      Learn
+                  </a>
+                  <a href="/demo/bond-app" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:#f0f0f0;color:#1A3D7C;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,0.08);mso-padding-alt:0;">
+                      Practice
+                  </a>
+              </div>
+          </div>
+      </div>
+    
+      <div style="margin-bottom:20px;background:#ffffff;border:1px solid #e9ecef;border-radius:8px;padding:20px;border-left:4px solid #1e90ff;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+              <div style="flex:1 1 250px;min-width:200px;">
+                  <h4 style="margin:0 0 8px 0;font-size:16px;font-weight:600;color:#1A3D7C;">
+                      Statement of Cash Flows
+                  </h4>
+                  <p style="margin:0;font-size:14px;color:#666666;">
+                      Your Score: <strong>1 out of 3</strong>
+                  </p>
+              </div>
+              <div style="flex-shrink:0;display:flex;align-items:center;gap:8px;">
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:linear-gradient(135deg,#1e90ff 0%,#0066cc 100%);color:#ffffff;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 2px 6px rgba(30,144,255,0.25);mso-padding-alt:0;">
+                      Learn
+                  </a>
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:#f0f0f0;color:#1A3D7C;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,0.08);mso-padding-alt:0;">
+                      Practice
+                  </a>
+              </div>
+          </div>
+      </div>
+    
+      <div style="margin-bottom:20px;background:#ffffff;border:1px solid #e9ecef;border-radius:8px;padding:20px;border-left:4px solid #1e90ff;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+              <div style="flex:1 1 250px;min-width:200px;">
+                  <h4 style="margin:0 0 8px 0;font-size:16px;font-weight:600;color:#1A3D7C;">
+                      Revenue Recognition
+                  </h4>
+                  <p style="margin:0;font-size:14px;color:#666666;">
+                      Your Score: <strong>2 out of 3</strong>
+                  </p>
+              </div>
+              <div style="flex-shrink:0;display:flex;align-items:center;gap:8px;">
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:linear-gradient(135deg,#1e90ff 0%,#0066cc 100%);color:#ffffff;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 2px 6px rgba(30,144,255,0.25);mso-padding-alt:0;">
+                      Learn
+                  </a>
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:#f0f0f0;color:#1A3D7C;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,0.08);mso-padding-alt:0;">
+                      Practice
+                  </a>
+              </div>
+          </div>
+      </div>
+    
+      <div style="margin-bottom:20px;background:#ffffff;border:1px solid #e9ecef;border-radius:8px;padding:20px;border-left:4px solid #1e90ff;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+              <div style="flex:1 1 250px;min-width:200px;">
+                  <h4 style="margin:0 0 8px 0;font-size:16px;font-weight:600;color:#1A3D7C;">
+                      Lease Accounting
+                  </h4>
+                  <p style="margin:0;font-size:14px;color:#666666;">
+                      Your Score: <strong>2 out of 3</strong>
+                  </p>
+              </div>
+              <div style="flex-shrink:0;display:flex;align-items:center;gap:8px;">
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:linear-gradient(135deg,#1e90ff 0%,#0066cc 100%);color:#ffffff;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 2px 6px rgba(30,144,255,0.25);mso-padding-alt:0;">
+                      Learn
+                  </a>
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:#f0f0f0;color:#1A3D7C;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,0.08);mso-padding-alt:0;">
+                      Practice
+                  </a>
+              </div>
+          </div>
+      </div>
+    
+      <div style="margin-bottom:20px;background:#ffffff;border:1px solid #e9ecef;border-radius:8px;padding:20px;border-left:4px solid #1e90ff;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+              <div style="flex:1 1 250px;min-width:200px;">
+                  <h4 style="margin:0 0 8px 0;font-size:16px;font-weight:600;color:#1A3D7C;">
+                      Equity Transactions
+                  </h4>
+                  <p style="margin:0;font-size:14px;color:#666666;">
+                      Your Score: <strong>2 out of 3</strong>
+                  </p>
+              </div>
+              <div style="flex-shrink:0;display:flex;align-items:center;gap:8px;">
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:linear-gradient(135deg,#1e90ff 0%,#0066cc 100%);color:#ffffff;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 2px 6px rgba(30,144,255,0.25);mso-padding-alt:0;">
+                      Learn
+                  </a>
+                  <a href="/demo/study-plan" target="_blank" style="display:inline-block;padding:6px 14px;font-size:13px;line-height:13px;font-weight:500;background:#f0f0f0;color:#1A3D7C;text-decoration:none;border-radius:4px;white-space:nowrap;box-shadow:0 1px 3px rgba(0,0,0,0.08);mso-padding-alt:0;">
+                      Practice
+                  </a>
+              </div>
+          </div>
+      </div>
+    
+                      
+                      <p style="font-size:16px;color:#333333;line-height:1.6;margin-bottom:10px;">
+                          Good luck with your studies!
+                      </p>
+                      
+                  </td>
+              </tr>
+              
+              <!-- Footer -->
+              <tr>
+                  <td style="background:#f8f9fa;padding:30px 40px;text-align:center;border-top:1px solid #e9ecef;">
+                      <p style="font-size:14px;color:#6c757d;margin:0;line-height:1.5;">
+                          — The Maxwell CPA Review Team
+                      </p>
+                  </td>
+              </tr>
+              
+          </table>
+      </div>
+  </body>
+  </html>
+  0:["qBWTmC0AWNYVXHSv04Pzf",[[["",{"children":["demo",{"children":["email",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",{"children":["demo",{"children":["email",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","demo","children","email","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","demo","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f0a57cb2759cf07b.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e8ce0c bg-maxwell-background","children":["$","main",null,{"children":["$","div",null,{"className":"w-full flex flex-col items-center","children":[["$","header",null,{"className":"w-full","children":["$","nav",null,{"className":"w-full flex justify-center border-b border-b-foreground/10 h-16","children":["$","div",null,{"className":"w-full max-w-4xl flex justify-center items-center p-3 text-sm","children":["$","h1",null,{"className":"text-2xl font-bold text-center","children":"Maxwell CPA Review FAR Assessment"}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","footer",null,{"className":"w-full border-t border-t-foreground/10 p-8 flex justify-center text-center text-xs","children":["$","p",null,{"children":["© ",2025," Maxwell CPA Review. All rights reserved."]}]}]]}]}]}]}]],null],null],["$L5",null]]]]
+5:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Maxwell CPA Baseline Platform"}],["$","meta","3",{"name":"description","content":"Baseline and followup exams to measure student strengths and weaknesses."}],["$","meta","4",{"name":"next-size-adjust"}]]
+1:null
